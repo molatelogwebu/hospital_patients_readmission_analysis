@@ -70,6 +70,8 @@ IF(P2<0.7,"Medium","High"))
 5. Frequent Patient Flag
 =IF(M2>=3,"Frequent","Normal")
 
+Link to PowerBI; 
+https://app.powerbi.com/groups/me/reports/5c89e5c2-dfc5-411c-9819-b371667ee48a/669cb6ba0ac9040b050d?experience=power-bi
 
 Dataset source:
 Kaggle.com 
